@@ -1,0 +1,6 @@
+/* @tailwind base; */
+/* @tailwind components; */
+/* @tailwind utilities; */
+/* Como adicionar um estilo CSs externo no css?
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css');
